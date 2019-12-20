@@ -19,18 +19,7 @@ More Project - https://projectworlds.in
 
 ### Screenshots
 
-<p>
-<img src="../gh-pages/img/navigation.png?raw=true" width="30%" </img>
-&nbsp;&nbsp;
-<img src="../gh-pages/img/today.png?raw=true" width="30%" </img>
-&nbsp;&nbsp;
-<img src="../gh-pages/img/new_expense.png?raw=true" width="30%" </img>
-</p>
-
-<p>
-<img src="../gh-pages/img/filter.png?raw=true" width="30%" </img>
-&nbsp;&nbsp;
-<img src="../gh-pages/img/report.png?raw=true" width="30%" </img>
-&nbsp;&nbsp;
-<img src="../gh-pages/img/categories.png?raw=true" width="30%" </img>
-</p>
+![photo5469875825278036913](https://user-images.githubusercontent.com/33866829/71248090-46c0a500-2344-11ea-8f9a-3fadf2a8a8d1.jpg)
+![photo5469867106494426036](https://user-images.githubusercontent.com/33866829/71248103-4922ff00-2344-11ea-90c5-6daea00d40dd.jpg)
+![photo5469953392387402639](https://user-images.githubusercontent.com/33866829/71248113-4b855900-2344-11ea-8568-1462825b47c9.jpg)
+![photo5469953392387402638](https://user-images.githubusercontent.com/33866829/71248116-4d4f1c80-2344-11ea-92a3-f8f450b365e2.jpg)
